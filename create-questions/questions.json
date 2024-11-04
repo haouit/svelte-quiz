@@ -1,0 +1,450 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Kế hoạch tài chính cá nhân",
+            "question": "Kế hoạch tài chính cá nhân là kế hoạch sử dụng ngân sách cân đối dòng tiền trong ______________________________ của một cá nhân.",
+            "correct_answer": "thu nhập - chi tiêu - đầu tư - tích lũy",
+            "incorrect_answers": [
+                "sản xuất - chi tiêu - đầu tư - tích lũy",
+                "sản xuất - đầu tư - tích lũy - quyên góp",
+                "thu nhập - chi tiêu - đầu tư"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Kế hoạch tài chính cá nhân",
+            "question": "Mục tiêu chính của kế hoạch tài chính cá nhân là gì?",
+            "correct_answer": "Đảm bảo an toàn tài chính và đạt được các mục tiêu tài chính",
+            "incorrect_answers": [
+                "Tăng thu nhập",
+                "Giảm chi tiêu",
+                "Đầu tư vào chứng khoán"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Kế hoạch tài chính cá nhân",
+            "question": "Yếu tố nào sau đây không phải là yếu tố ảnh hưởng đến quyết định đầu tư?",
+            "correct_answer": "Sở thích cá nhân",
+            "incorrect_answers": [
+                "Mục tiêu tài chính",
+                "Khả năng chịu rủi ro",
+                "Thời gian đầu tư"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Kế hoạch tài chính cá nhân",
+            "question": "Đâu không phải là phương án thực hiện kế hoạch tài chính cá nhân?",
+            "correct_answer": "Mua bảo hiểm",
+            "incorrect_answers": [
+                "tiết kiệm",
+                "đầu tư",
+                "tăng thu nhập"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Kế hoạch tài chính cá nhân",
+            "question": "\"Kĩ năng, học vấn, sức khỏe và tuổi tác ảnh hưởng đến mức lương và khả năng duy trì công việc. \" thuộc yếu tố ảnh hưởng nào?",
+            "correct_answer": "Cá nhân",
+            "incorrect_answers": [
+                "Kinh tế",
+                "Chính trị - pháp luật",
+                "Xã hội"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Kế hoạch tài chính cá nhân",
+            "question": "\"Tầng lớp, văn hóa và mạng lưới quan hệ ảnh hưởng đến cơ hội và mức lương\" thuộc yếu tố ảnh hưởng nào?",
+            "correct_answer": "Xã hội",
+            "incorrect_answers": [
+                "Cá nhân",
+                "Chính trị - pháp luật",
+                "Công nghệ"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Kế hoạch tài chính cá nhân",
+            "question": "Đâu không phải là yếu tố ảnh hưởng tới thu nhập tài chính cá nhân?",
+            "correct_answer": "Phúc lợi",
+            "incorrect_answers": [
+                "Cá nhân",
+                "Kinh tế",
+                "Xã hội",
+                "Công nghệ"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Kế hoạch tài chính cá nhân",
+            "question": "Đâu không phải vai trò của kế hoạch tài chính cá nhân?",
+            "correct_answer": "Dễ dàng tiếp cận nguồn vốn đầu tư (thu hút các nhà đầu tư, tạo dựng niềm tin)",
+            "incorrect_answers": [
+                "Quản lí tài chính cá nhân hiệu quả (hiểu rõ về thu nhập cả bản thân, cân đối chi tiêu, sử dụng tiền hiệu quả)",
+                "Đạt được các mục tiêu tài chính (giúp xác định và theo đuổi các mục tiêu tài chính có kế hoạch)",
+                "Đối phó với các rủi ro tài chính (chuẩn bị cho những sự cố tài chính bất ngờ như bệnh tật hay nợ nần)",
+                "Xây dựng sự nghiệp tài chính vững chắc (xây dựng nèn tảng tài chính vững chắc và lâu dài trong tương lai)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Kế hoạch tài chính cá nhân",
+            "question": "Bước nào không phải là một phần của quy trình lập kế hoạch tài chính cá nhân?",
+            "correct_answer": "Nghiên cứu các xu hướng của thị trường",
+            "incorrect_answers": [
+                "Đánh giá tình hình tài chính hiện tại",
+                "Đặt ra các mục tiêu tài chính",
+                "Đưa ra các phương án thực hiện khác nhau",
+                "Áp dụng phương án vào thực tiễn",
+                "Đánh giá tính khả thi và hiệu quả của phương án",
+                "Đánh giá và chỉnh sửa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Kế hoạch tài chính cá nhân",
+            "question": "Kế hoạch tài chính cá nhân là gì?",
+            "correct_answer": "Kế hoạch sử dụng ngân sách cân đối dòng tiền trong thu nhập-chi tiêu-đầu tư-tích lũy của một cá nhân.",
+            "incorrect_answers": [
+                "Kế hoạch chi tiêu hàng tháng của một cá nhân.",
+                "Kế hoạch đầu tư vào cổ phiếu và trái phiếu.",
+                "Kế hoạch tiết kiệm tiền cho tương lai."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Đặc điểm nào không phải của bảo hiểm xã hội?",
+            "correct_answer": "Không bắt buộc người lao động phải tham gia.",
+            "incorrect_answers": [
+                "Bắt buộc người lao động phải tham gia",
+                "Toàn dân phải tham gia, Tính bình đẳng"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Đặc điểm nào không phải của bảo hiểm nhân thọ?",
+            "correct_answer": "Không có giá trị tích lũy.",
+            "incorrect_answers": [
+                "Bảo vệ tài chính",
+                "Tiết kiệm và đầu tư",
+                "Linh hoạt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Loại hình bảo hiểm nào không thuộc bảo hiểm phi nhân thọ?",
+            "correct_answer": "Bảo hiểm tử kỳ",
+            "incorrect_answers": [
+                "Bảo hiểm sức khỏe và tai nạn",
+                "Bảo hiểm tài sản",
+                "Bảo hiểm trách nhiệm dân sự"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Loại hình bảo hiểm nào thuộc bảo hiểm phi nhân thọ?",
+            "correct_answer": "Bảo hiểm hàng không",
+            "incorrect_answers": [
+                "Bảo hiểm tử kỳ",
+                "Bảo hiểm sinh kỳ",
+                "Bảo hiểm trọn đời",
+                "Bảo hiểm trả tiền định kỳ"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Bảo hiểm thiên tai (hỏa hoạn, lũ lụt, động đất, v.v.) có phải là bảo hiểm nhân thọ, đúng hay sai?",
+            "correct_answer": "Sai",
+            "incorrect_answers": [
+                "Đúng"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Đặc điểm nào không phải của bảo hiểm sức khỏe?",
+            "correct_answer": "Chi trả chi phí tai nạn",
+            "incorrect_answers": [
+                "Chi trả chi phí y tế",
+                "Dịch vụ đa dạng",
+                "Thời hạn hợp đồng có thể ngắn hạn hoặc dài hạn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Bảo hiểm xã hội là gì?",
+            "correct_answer": " Là loại hình bảo hiểm do nhà nước quản lý, nhằm đảm bảo quyền lợi của người lao động",
+            "incorrect_answers": [
+                "Là hình thức bảo hiểm tự nguyện, do người dân tự mua.",
+                "Là loại hình bảo hiểm chỉ dành cho người già.",
+                "Là loại hình bảo hiểm chỉ dành cho người lao động làm việc trong các doanh nghiệp nhà nước."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Bảo hiểm xã hội tự nguyện chỉ áp dụng cho người lao động.",
+            "correct_answer": "Sai",
+            "incorrect_answers": [
+                "Đúng"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Theo quy định của pháp luật Việt Nam, người lao động bắt buộc phải tham gia bảo hiểm xã hội từ khi nào?",
+            "correct_answer": "Từ khi ký hợp đồng lao động có thời hạn từ 3 tháng trở lên.",
+            "incorrect_answers": [
+                "Từ khi bắt đầu đi làm.",
+                "Khi đủ 18 tuổi.",
+                "Khi có nhu cầu."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Bảo hiểm xã hội bắt buộc là gì?",
+            "correct_answer": "Là bảo hiểm bắt buộc cho người lao động và người sử dụng lao động",
+            "incorrect_answers": [
+                "Là bảo hiểm mà mọi người tự nguyện tham gia theo khả năng tài chính",
+                "Là bảo hiểm dành cho các tổ chức tư nhân",
+                "Là bảo hiểm chỉ có giá trị ở nước ngoài"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Bảo hiểm nhân thọ có đặc điểm gì nổi bật?",
+            "correct_answer": "Bảo vệ tài chính cho gia đình khi người trụ cột gặp rủi ro",
+            "incorrect_answers": [
+                "Chỉ dành cho người có thu nhập cao",
+                "Chỉ bảo vệ trong thời gian ngắn",
+                "Không có tính đầu tư"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Loại hình bảo hiểm nhân thọ \"có kỳ hạn\" nghĩa là gì?",
+            "correct_answer": "Bảo vệ trong một thời gian nhất định",
+            "incorrect_answers": [
+                "Bảo vệ suốt đời",
+                "Bảo vệ khi tham gia thị trường lao động chính thức",
+                "Bảo vệ tài sản khi gặp sự cố"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Điểm khác biệt của bảo hiểm phi nhân thọ so với bảo hiểm nhân thọ là gì?",
+            "correct_answer": "Chỉ bồi thường khi có rủi ro trong phạm vi hợp đồng",
+            "incorrect_answers": [
+                "Có giá trị tích lũy lâu dài",
+                "Bảo vệ tài chính cho người tham gia khi già yếu",
+                "Là loại hình bảo hiểm bắt buộc"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Bảo hiểm nha khoa thuộc loại hình bảo hiểm nào?",
+            "correct_answer": "Bảo hiểm sức khỏe",
+            "incorrect_answers": [
+                "Bảo hiểm nhân thọ",
+                "Bảo hiểm phi nhân thọ",
+                "Bảo hiểm xã hội"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Đặc điểm nào sau đây thuộc về bảo hiểm xã hội tự nguyện?",
+            "correct_answer": "Cho phép người tham gia chọn mức đóng theo khả năng tài chính",
+            "incorrect_answers": [
+                "Bắt buộc người lao động phải tham gia",
+                "Chỉ áp dụng cho những người có thu nhập cao",
+                "Không có hỗ trợ khi gặp khó khăn về tài chính"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Vai trò nào sau đây KHÔNG phải của bảo hiểm sức khỏe?",
+            "correct_answer": "Hỗ trợ chi phí xây dựng cơ sở hạ tầng",
+            "incorrect_answers": [
+                "Khuyến khích khám chữa bệnh định kỳ",
+                "Đảm bảo tài chính khi người tham gia cần điều trị",
+                "Góp phần nâng cao chất lượng sống của cộng đồng"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Bảo hiểm xã hội tự nguyện mang lại lợi ích gì cho người tham gia?",
+            "correct_answer": "Giúp người tham gia được hưởng chế độ hưu trí khi đến tuổi lao động",
+            "incorrect_answers": [
+                "Đảm bảo bảo vệ tài sản cá nhân",
+                "Hỗ trợ chi phí xây dựng cơ sở kinh doanh",
+                "Chỉ áp dụng cho doanh nghiệp"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Bảo hiểm nhân thọ hỗn hợp là gì?",
+            "correct_answer": "Kết hợp bảo hiểm và đầu tư, gia tăng giá trị tài sản",
+            "incorrect_answers": [
+                "Chỉ bảo vệ trong một khoảng thời gian nhất định",
+                "Bảo vệ suốt đời nhưng không có giá trị tích lũy",
+                "Không có tính đầu tư"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Đặc điểm nào sau đây thuộc về bảo hiểm phi nhân thọ?",
+            "correct_answer": "Thời hạn hợp đồng ngắn, có thể tái tục",
+            "incorrect_answers": [
+                "Bảo vệ tài chính trọn đời cho người tham gia",
+                "Không phụ thuộc vào xác suất rủi ro",
+                "Bảo vệ quyền lợi cho người lao động"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Vai trò của bảo hiểm nhân thọ đối với gia đình là gì?",
+            "correct_answer": "Ổn định kinh tế gia đình khi người trụ cột gặp rủi ro",
+            "incorrect_answers": [
+                "Hỗ trợ đầu tư tài chính cho doanh nghiệp",
+                "Đảm bảo các khoản nợ cá nhân",
+                "Hỗ trợ chi phí giáo dục cho trẻ em"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Phân loại bảo hiểm sức khỏe không bao gồm loại nào sau đây?",
+            "correct_answer": "Bảo hiểm tài sản",
+            "incorrect_answers": [
+                "Bảo hiểm chăm sóc sức khỏe",
+                "Bảo hiểm nội trú",
+                "Bảo hiểm nha khoa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Bảo hiểm nhân thọ giúp tích lũy tài chính cho tương lai bằng cách nào?",
+            "correct_answer": "Cho phép người tham gia tiết kiệm và đầu tư lâu dài",
+            "incorrect_answers": [
+                "Bồi thường thiệt hại khi có rủi ro",
+                "Đảm bảo quyền lợi khi về già",
+                "Giảm thiểu gánh nặng cho doanh nghiệp"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "ại sao bảo hiểm xã hội có tính bình đẳng?",
+            "correct_answer": "Vì đảm bảo chi trả quyền lợi cho người tham gia theo mức độ rủi ro mà họ gặp phải",
+            "incorrect_answers": [
+                "Vì chỉ áp dụng cho người lao động nữ",
+                "Vì chỉ dành cho người làm việc trong nhà nước",
+                "Vì đảm bảo lợi nhuận cao cho các doanh nghiệp"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Bảo hiểm",
+            "question": "Bảo hiểm sức khỏe có vai trò gì?",
+            "correct_answer": "Chi trả các chi phí liên quan đến chăm sóc y tế cho người tham gia",
+            "incorrect_answers": [
+                "Đảm bảo nguồn tài chính cho gia đình khi người trụ cột gặp rủi ro",
+                "Chỉ dành cho những ai có hợp đồng lao động dài hạn",
+                "Bảo vệ tài sản cá nhân khi có sự cố"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Tầm quan trọng của kế hoạch hưu trí là gì?",
+            "correct_answer": "Đảm bảo an toàn tài chính, độc lập tài chính, dự phòng rủi ro, tận hưởng cuộc sống.",
+            "incorrect_answers": [
+                "Chỉ để tiết kiệm tiền cho tương lai.",
+                "Chỉ để đầu tư vào cổ phiếu.",
+                "Chỉ để quản lý chi tiêu hàng ngày."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Vai trò của kế hoạch hưu trí là gì?",
+            "correct_answer": "Quản lý tài chính dài hạn, đầu tư hiệu quả, giảm rủi ro, tối ưu hóa thuế.",
+            "incorrect_answers": [
+                "Chỉ để tiết kiệm tiền cho tương lai.",
+                "Chỉ để đầu tư vào bất động sản.",
+                "Chỉ để quản lý chi tiêu hàng ngày."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Bước nào không phải là một phần của quy trình lập kế hoạch hưu trí?",
+            "correct_answer": "Đánh giá tính khả thi và hiệu quả của phương án",
+            "incorrect_answers": [
+                "Xác định mục tiêu hưu trí",
+                "Đánh giá tình hình tài chính hiện tại",
+                "Ước tính chi phí hưu trí"
+            ]
+        }
+    ]
+}
