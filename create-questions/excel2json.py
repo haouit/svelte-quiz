@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-def excel2json(file_path):
+def excel2json(file_path, output_path):
     df = pd.read_excel(file_path)
 
     json_data = []
@@ -26,9 +26,9 @@ def excel2json(file_path):
 		"results": json_data
     }
 
-    with open('questions.json', 'w', encoding='utf-8') as f:
+    with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(json_object, f, ensure_ascii=False, indent=4)
 
     print("Convert Excel to JSON successfully!")
 
-excel2json('questions.xlsx')
+excel2json('questions.xlsx', '..\\public\\questions.json')

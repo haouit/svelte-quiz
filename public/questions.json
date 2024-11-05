@@ -445,6 +445,186 @@
                 "Đánh giá tình hình tài chính hiện tại",
                 "Ước tính chi phí hưu trí"
             ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Kế hoạch hưu trí giúp bạn đạt được điều gì?",
+            "correct_answer": "An toàn và độc lập tài chính khi nghỉ hưu",
+            "incorrect_answers": [
+                "Mua bảo hiểm nhân thọ với lãi suất cao",
+                "Tăng thu nhập ngay lập tức",
+                "Đầu tư bất động sản"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Mục tiêu của việc lập kế hoạch hưu trí là gì?",
+            "correct_answer": "Đảm bảo cuộc sống ổn định và thoải mái sau khi nghỉ hưu",
+            "incorrect_answers": [
+                "Đảm bảo chi phí học tập cho con cái",
+                "Đầu tư vào thị trường chứng khoán",
+                "Chỉ bảo vệ tài sản"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Lợi ích nào sau đây KHÔNG phải của kế hoạch hưu trí?",
+            "correct_answer": "Tạo ra nhiều khoản vay dài hạn",
+            "incorrect_answers": [
+                "Độc lập tài chính",
+                "An toàn tài chính",
+                "Dự phòng rủi ro"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Một trong những vai trò chính của kế hoạch hưu trí là gì?",
+            "correct_answer": "Giúp bạn quản lý tài chính dài hạn hiệu quả",
+            "incorrect_answers": [
+                "Giúp bạn vay vốn với lãi suất thấp",
+                "Đảm bảo giá trị bất động sản",
+                "Giảm chi phí sinh hoạt hàng ngày"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Tại sao nên tối ưu hóa thuế trong kế hoạch hưu trí?",
+            "correct_answer": "Giúp bạn tận dụng các lợi ích thuế từ các khoản đầu tư hưu trí",
+            "incorrect_answers": [
+                "Để có thêm nhiều khoản nợ mới",
+                "Để tăng số lượng tài sản nắm giữ",
+                "Để giảm số năm làm việc"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Quy trình lập kế hoạch hưu trí bắt đầu với bước nào?",
+            "correct_answer": "Xác định mục tiêu hưu trí",
+            "incorrect_answers": [
+                "Đầu tư vào chứng khoán",
+                "Giảm chi tiêu hàng ngày",
+                "Vay vốn từ ngân hàng"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Khi xác định mục tiêu hưu trí, cần xem xét yếu tố nào?",
+            "correct_answer": "Tuổi nghỉ hưu và mức sống mong muốn",
+            "incorrect_answers": [
+                "Chỉ tiêu tài chính của công ty",
+                "Các khoản nợ cá nhân",
+                "Mức thu nhập tối đa hiện tại"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Đánh giá tài chính hiện tại bao gồm những gì?",
+            "correct_answer": "Tài sản, nợ, thu nhập, và chi tiêu",
+            "incorrect_answers": [
+                "Chỉ gồm lương hưu",
+                "Các khoản nợ ngắn hạn",
+                "Số tiền vay dự kiến"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Để ước tính chi phí hưu trí, cần xem xét chi phí nào?",
+            "correct_answer": "Chi phí sinh hoạt và chi phí y tế",
+            "incorrect_answers": [
+                "Chi phí mua sắm hàng ngày",
+                "Chi phí kinh doanh",
+                "Chi phí học tập của con cái"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Một phương pháp phổ biến để tính tổng chi phí cho giai đoạn nghỉ hưu là gì?",
+            "correct_answer": "Nhân tổng chi phí hàng năm với số năm dự kiến sống sau khi nghỉ hưu",
+            "incorrect_answers": [
+                "Chia tổng chi phí cho 12 tháng",
+                "Nhân tổng thu nhập với lãi suất",
+                "Trừ tổng chi phí hàng năm cho số năm làm việc"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Để đạt được số tiền hưu trí cần thiết, nên làm gì?",
+            "correct_answer": "Đặt mục tiêu tiết kiệm hàng tháng",
+            "incorrect_answers": [
+                "Vay ngân hàng với lãi suất cao",
+                "Chỉ đầu tư vào bất động sản",
+                "Cắt giảm chi phí đầu tư"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Khi lập kế hoạch đầu tư cho hưu trí, cần cân nhắc yếu tố nào?",
+            "correct_answer": "Khả năng chấp nhận rủi ro",
+            "incorrect_answers": [
+                "hỉ đầu tư vào tài sản có giá trị cao",
+                "Bỏ qua lợi nhuận dự kiến",
+                "Không quan tâm đến rủi ro"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Các nguồn thu nhập hưu trí bao gồm gì?",
+            "correct_answer": "Quỹ hưu trí và lợi nhuận từ đầu tư",
+            "incorrect_answers": [
+                "Khoản vay ngắn hạn",
+                "Thu nhập từ việc làm thêm",
+                "Bán tài sản hằng năm"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Khi nào cần đánh giá lại kế hoạch hưu trí?",
+            "correct_answer": "Định kỳ hoặc khi có thay đổi trong tình hình tài chính",
+            "incorrect_answers": [
+                "Khi hết nguồn thu nhập",
+                "Khi giá trị tài sản tăng",
+                "Khi muốn đầu tư vào bất động sản"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Hưu trí",
+            "question": "Vì sao cần điều chỉnh kế hoạch hưu trí?",
+            "correct_answer": "Để đảm bảo kế hoạch phù hợp với tình hình tài chính hiện tại",
+            "incorrect_answers": [
+                "Để giảm chi phí sinh hoạt sau này",
+                "Để giảm số năm dự kiến nghỉ hưu",
+                "Để tăng khoản nợ ngân hàng"
+            ]
         }
     ]
 }
